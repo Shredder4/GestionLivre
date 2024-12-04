@@ -1,0 +1,272 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+@* 
+<div class="text-center">
+    <h1 class="display-4">Welcome to your very own library space</h1>
+    <p>Learn about <a href="/index">What We Have To Offer You Through Our Website</a>.</p>
+</div>
+
+<br />
+  
+    <style>
+    
+
+        main {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            grid-template-rows: repeat(2, 1fr);
+            height: 40vh;
+        }
+
+        main div {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            border: 2px solid #FF7F7F;
+        }
+
+        a {
+            text-decoration: none;
+            color: #000000;
+            font-size: 20px;
+            font-weight: bold;
+        }
+
+        main div:hover {
+        background-color: #FF7F7F;
+        }
+
+        body{
+        background-image: url('https://img.freepik.com/free-vector/education-background-with-books-ceiling-lamp_53876-115359.jpg');
+        background-size :cover;
+        }
+
+    </style>
+
+
+
+    <main>
+        <div id="Our Authors" onclick="window.location.href='auteurs';">
+            <a href="auteurs">Our Authors</a>
+        </div>
+
+        <div id="Our Categories" onclick="window.location.href='categorie';">
+            <a href="categorie">Our Categories</a>
+        </div>
+
+        <div id="Our Editors" onclick="window.location.href='editeurs';">
+            <a href="editeurs">Our Editors</a>
+        </div>
+
+        <div id="Our Books" onclick="window.location.href='livres';">
+            <a href="livres">Our Books</a>
+        </div>
+    </main>
+ *@
+<br />
+<br />
+<!DOCTYPE html>
+<html>
+
+<head>
+    <!-- Basic -->
+    @*  <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <!-- Mobile Metas -->
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <!-- Site Metas -->
+    <meta name="keywords" content="" />
+    <meta name="description" content="" />
+    <meta name="author" content="" />
+
+    <title>Spering</title>
+
+    <!-- bootstrap core css -->
+    <link rel="stylesheet" type="text/css" href="css/bootstrap.css" />
+
+    <link href="https://fonts.googleapis.com/css?family=Poppins:400,700&display=swap" rel="stylesheet">
+    <!-- Custom styles for this template -->
+    <link href="css/style.css" rel="stylesheet" />
+    <!-- responsive style -->
+    <link href="css/responsive.css" rel="stylesheet" /> *@
+</head>
+
+<body>
+
+    <!-- end header section -->
+    <!-- slider section -->
+    <section class="slider_section ">
+        <div class="carousel_btn-container">
+            <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+                <span class="sr-only">Previous</span>
+            </a>
+            <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+                <span class="sr-only">Next</span>
+            </a>
+        </div>
+      
+            <div class="carousel-inner">
+                <div class="carousel-item active">
+                    <div class="container-fluid">
+                        <div class="row">
+                            <div class="col-md-5 offset-md-1">
+                                <div class="detail-box">
+                                    <h1>
+                                        You Can <br>
+                                        Read And Discover <br>
+                                        Here
+                                    </h1>
+                                    <p>
+                                        Allow this platform to be your gateway
+                                        to new success and unlimited
+                                    </p>
+                                    <div class="btn-box">
+                                        <a href="/Auteurs" class="btn-1">
+                                            Our Writers
+                                        </a>
+                                        <a href="/Categorie" class="btn-2">
+                                            Our Categories
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="offset-md-1 col-md-4 img-container">
+                                <div class="img-box">
+                                    <img src="images/slider-img.png" alt="">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="carousel-item ">
+                    <div class="container-fluid">
+                        <div class="row">
+                            <div class="col-md-5 offset-md-1">
+                                <div class="detail-box">
+                                    <h1>
+                                        You Can <br>
+                                        Open Your Imagination <br>
+                                        Here
+                                    </h1>
+                                    <p>
+                                        It is a long established fact that a reader will be better than
+                                        a person that waste it's time playing on the internet
+                                    </p>
+                                    <div class="btn-box">
+                                        <a href="/Livres" class="btn-1">
+                                            Our Books
+                                        </a>
+                                        <a href="/Editeurs" class="btn-2">
+                                            Our Editors
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="offset-md-1 col-md-4 img-container">
+                                <div class="img-box">
+                                    <img src="images/slider-img.png" alt="">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="carousel-item ">
+                    <div class="container-fluid">
+                        <div class="row">
+                            <div class="col-md-5 offset-md-1">
+                                <div class="detail-box">
+                                    <h1>
+                                        You Can <br>
+                                        Find The Best Writers <br>
+                                        Here
+                                    </h1>
+                                    <p>
+                                        It is a long established fact that ours readers
+                                        have made incredible progress from reading our books
+                                    </p>
+                                    <div class="btn-box">
+                                        <a href="" class="btn-1">
+                                            About Us
+                                        </a>
+                                        <a href="" class="btn-2">
+                                            Get A Quote
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="offset-md-1 col-md-4 img-container">
+                                <div class="img-box">
+                                    <img src="images/slider-img.png" alt="">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+
+    </section>
+    <!-- end slider section -->
+    </div>
+
+
+    <!-- experience section -->
+
+    <section class="experience_section layout_padding">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-5">
+                    <div class="img-box">
+                        <img src="images/experience-img.jpg" alt="">
+                    </div>
+                </div>
+                <div class="col-md-7">
+                    <div class="detail-box">
+                        <div class="heading_container">
+                            <h2>
+                                Best Writers, Categories and more!
+                            </h2>
+                        </div>
+                        <p>
+                            It is a long established fact that ours readers
+                            have made incredible progress from reading our books
+                        </p>
+                        <div class="btn-box">
+                            <a href="/Livres" class="btn-1">
+                                Books
+                            </a>
+                            <a href="/Categorie" class="btn-2">
+                                Categorie
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </section>
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <!-- end experience section -->
+    <!-- end freelance section -->
+    <!-- client section -->
+    <!-- end  footer section -->
+    @*
+
+    <script src="js/jquery-3.4.1.min.js"></script>
+    <script src="js/bootstrap.js"></script>
+    <script src="js/custom.js"></script>
+
+    *@
+</body>
+
+
+</html>

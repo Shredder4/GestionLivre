@@ -1,0 +1,93 @@
+﻿@page
+@model GestionLivre.Pages.createLivreModel
+@{
+}
+<br />
+<h2>Nouveau livre</h2>
+@if (Model.errorMessage.Length > 0)
+{
+    <div class='alert alert-warning alert-dismissible fade show' role='alert'>
+        <strong>@Model.errorMessage</strong>
+        <button type='button' class='btn_close' date-bs-dismiss='alert' arialabel='Close'></button>
+    </div>
+}
+<form method="post">
+    <div class="row mb-3">
+        <label class="col-sm-3 col-form-label">Titre</label>
+        <div class="col-sm-6">
+            <input type="text" class="form-control" name="titre"
+                   value="@Model.livreInfo.titre">
+        </div>
+    </div>
+    <div class="row mb-3">
+        <label class="col-sm-3 col-form-label">Isbn</label>
+        <div class="col-sm-6">
+            <input type="text" class="form-control" name="isbn"
+                   value="@Model.livreInfo.isbn">
+        </div>
+    </div>
+    <div class="form-group">
+        <label for="selectedPerson">Selectionner un auteur:</label>
+        <select class="form-control" id="ida" name="ida">
+
+            @foreach (var Auteur in Model.listauteur)
+            {
+                <option value="@Auteur.id">@Auteur.nom</option>
+            }
+        </select>
+    </div>
+    <div class="form-group">
+        <label for="selectedPerson">Selectionner un editeur:</label>
+        <select class="form-control" id="ida" name="edi">
+
+            @foreach (var Editeur in Model.listediteur)
+            {
+                <option value="@Editeur.id">@Editeur.nom</option>
+            }
+        </select>
+    </div>
+    <div class="form-group">
+        <label for="selectedPerson">Selectionner une categorie:</label>
+        <select class="form-control" id="ida" name="cat">
+
+            @foreach (var Categorie in Model.listcategorie)
+            {
+                <option value="@Categorie.id">@Categorie.nom</option>
+            }
+        </select>
+    </div>
+
+
+
+    <div class="row mb-3">
+        <label class="col-sm-3 col-form-label">Description</label>
+        <div class="col-sm-6">
+            <input type="text" class="form-control" name="descrip"
+                   value="@Model.livreInfo.description">
+        </div>
+    </div>
+    <div class="row mb-3">
+        <label class="col-sm-3 col-form-label">Annee d'edition</label>
+        <div class="col-sm-6">
+            <input type="text" class="form-control" name="annee"
+                   value="@Model.livreInfo.anneeedition">
+        </div>
+    </div>
+    @if (Model.SuccessMessage.Length > 0)
+    {
+        <div class="row mb-3">
+            <div class='alert alert-success alert-dismissible fade show' role='alert'>
+                <strong>@Model.SuccessMessage</strong>
+                <button type='button' class='btn_close' date-bs-dismiss='alert' arialabel='Close'></button>
+            </div>
+        </div>
+    }
+    <div class="row mb-3">
+        <div class="offset-sm3 col-sm-3 d-grid">
+            <button type="submit" class="btn btn-primary"> Submit </button>
+        </div>
+        <div class="col-sm-3 d-grid">
+            <a class="btn btn-outline-primary" href="/" role="button">Cancel</a>
+        </div>
+    </div>
+</form>

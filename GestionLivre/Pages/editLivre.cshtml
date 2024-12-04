@@ -1,0 +1,76 @@
+﻿@page
+@model GestionLivre.Pages.editLivreModel
+@{
+}
+<br />
+<h2>Les informations du livre : </h2>
+<form method="post">
+    <input type="hidden" name="id" value="@Model.livreInfo.id">
+    <div class="row mb-3">
+        <label class="col-sm-3 col-form-label">Titre</label>
+        <div class="col-sm-6">
+            <input type="text" class="form-control" name="titre"
+                   value="@Model.livreInfo.titre">
+        </div>
+    </div>
+    <div class="row mb-3">
+        <label class="col-sm-3 col-form-label">Isbn</label>
+        <div class="col-sm-6">
+            <input type="text" class="form-control" name="isbn"
+                   value="@Model.livreInfo.isbn">
+        </div>
+    </div>
+    <div class="form-group">
+        <label for="selectedPerson">Selectionner un editeur:</label>
+        <select class="form-control" id="ida" name="editeur">
+            <option value="@Model.livreInfo.idediteur" selected="selected" hidden="hidden">@Model.livreInfo.Editeur</option>
+            @foreach (var Editeur in Model.listediteur)
+            {
+                <option value="@Editeur.id">@Editeur.nom</option>
+            }
+        </select>
+    </div>
+    <div class="form-group">
+        <label for="selectedPerson">Selectionner un auteur:</label>
+        <select class="form-control" id="ida" name="auteur">
+            <option value="@Model.livreInfo.idauteur" selected="selected" hidden="hidden">@Model.livreInfo.Auteur</option>
+            @foreach (var Auteur in Model.listauteur)
+            {
+                <option value="@Auteur.id">@Auteur.nom</option>
+            }
+        </select>
+    </div>
+    <div class="form-group">
+        <label for="selectedPerson">Selectionner une categorie:</label>
+        <select class="form-control" id="ida" name="cat">
+            <option value="@Model.livreInfo.idcat" selected="selected" hidden="hidden">@Model.livreInfo.Categorie</option>
+            @foreach (var Categorie in Model.listcategorie)
+            {
+                <option value="@Categorie.id">@Categorie.nom</option>
+            }
+        </select>
+    </div>
+    <div class="row mb-3">
+        <label class="col-sm-3 col-form-label">Description</label>
+        <div class="col-sm-6">
+            <input type="text" class="form-control" name="descrip"
+                   value="@Model.livreInfo.description">
+        </div>
+    </div>
+    <div class="row mb-3">
+        <label class="col-sm-3 col-form-label">Annee d'edition</label>
+        <div class="col-sm-6">
+            <input type="text" class="form-control" name="annee"
+                   value="@Model.livreInfo.anneeedition">
+        </div>
+    </div>
+
+    <div class="row mb-3">
+        <div class="offset-sm3 col-sm-3 d-grid">
+            <button type="submit" class="btn btn-primary"> Submit </button>
+        </div>
+        <div class="col-sm-3 d-grid">
+            <a class="btn btn-outline-primary" href="/" role="button">Cancel</a>
+        </div>
+    </div>
+</form>

@@ -1,0 +1,119 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = GestionLivre
+build_property.RootNamespace = GestionLivre
+build_property.ProjectDir = C:\Users\acer\Desktop\dotstuff\GestionLivreV2 bida ayoub\GestionLivre\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\acer\Desktop\dotstuff\GestionLivreV2 bida ayoub\GestionLivre
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/acer/Desktop/dotstuff/GestionLivreV2 bida ayoub/GestionLivre/Pages/Auteurs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXV0ZXVycy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/acer/Desktop/dotstuff/GestionLivreV2 bida ayoub/GestionLivre/Pages/Categorie.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcmllLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/acer/Desktop/dotstuff/GestionLivreV2 bida ayoub/GestionLivre/Pages/createAuteur.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcY3JlYXRlQXV0ZXVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/acer/Desktop/dotstuff/GestionLivreV2 bida ayoub/GestionLivre/Pages/createCategorie.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcY3JlYXRlQ2F0ZWdvcmllLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/acer/Desktop/dotstuff/GestionLivreV2 bida ayoub/GestionLivre/Pages/createEditeur.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcY3JlYXRlRWRpdGV1ci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/acer/Desktop/dotstuff/GestionLivreV2 bida ayoub/GestionLivre/Pages/createLivre.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcY3JlYXRlTGl2cmUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/acer/Desktop/dotstuff/GestionLivreV2 bida ayoub/GestionLivre/Pages/deleteAuteur.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcZGVsZXRlQXV0ZXVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/acer/Desktop/dotstuff/GestionLivreV2 bida ayoub/GestionLivre/Pages/deleteCategorie.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcZGVsZXRlQ2F0ZWdvcmllLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/acer/Desktop/dotstuff/GestionLivreV2 bida ayoub/GestionLivre/Pages/deleteEditeur.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcZGVsZXRlRWRpdGV1ci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/acer/Desktop/dotstuff/GestionLivreV2 bida ayoub/GestionLivre/Pages/deleteLivre.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcZGVsZXRlTGl2cmUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/acer/Desktop/dotstuff/GestionLivreV2 bida ayoub/GestionLivre/Pages/editAuteur.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcZWRpdEF1dGV1ci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/acer/Desktop/dotstuff/GestionLivreV2 bida ayoub/GestionLivre/Pages/editCategorie.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcZWRpdENhdGVnb3JpZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/acer/Desktop/dotstuff/GestionLivreV2 bida ayoub/GestionLivre/Pages/editEditeur.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcZWRpdEVkaXRldXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/acer/Desktop/dotstuff/GestionLivreV2 bida ayoub/GestionLivre/Pages/Editeurs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRWRpdGV1cnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/acer/Desktop/dotstuff/GestionLivreV2 bida ayoub/GestionLivre/Pages/editLivre.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcZWRpdExpdnJlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/acer/Desktop/dotstuff/GestionLivreV2 bida ayoub/GestionLivre/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/acer/Desktop/dotstuff/GestionLivreV2 bida ayoub/GestionLivre/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/acer/Desktop/dotstuff/GestionLivreV2 bida ayoub/GestionLivre/Pages/Livres.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGl2cmVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/acer/Desktop/dotstuff/GestionLivreV2 bida ayoub/GestionLivre/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/acer/Desktop/dotstuff/GestionLivreV2 bida ayoub/GestionLivre/Pages/Search.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2VhcmNoLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/acer/Desktop/dotstuff/GestionLivreV2 bida ayoub/GestionLivre/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/acer/Desktop/dotstuff/GestionLivreV2 bida ayoub/GestionLivre/Pages/test.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcdGVzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/acer/Desktop/dotstuff/GestionLivreV2 bida ayoub/GestionLivre/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/acer/Desktop/dotstuff/GestionLivreV2 bida ayoub/GestionLivre/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/acer/Desktop/dotstuff/GestionLivreV2 bida ayoub/GestionLivre/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-g8dhf9ai80

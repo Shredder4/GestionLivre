@@ -1,0 +1,152 @@
+C:\Users\hollo\OneDrive\Bureau\DOTNET\GestionLivre\GestionLivre\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\hollo\OneDrive\Bureau\DOTNET\GestionLivre\GestionLivre\bin\Debug\net6.0\appsettings.json
+C:\Users\hollo\OneDrive\Bureau\DOTNET\GestionLivre\GestionLivre\bin\Debug\net6.0\GestionLivre.staticwebassets.runtime.json
+C:\Users\hollo\OneDrive\Bureau\DOTNET\GestionLivre\GestionLivre\bin\Debug\net6.0\GestionLivre.exe
+C:\Users\hollo\OneDrive\Bureau\DOTNET\GestionLivre\GestionLivre\bin\Debug\net6.0\GestionLivre.deps.json
+C:\Users\hollo\OneDrive\Bureau\DOTNET\GestionLivre\GestionLivre\bin\Debug\net6.0\GestionLivre.runtimeconfig.json
+C:\Users\hollo\OneDrive\Bureau\DOTNET\GestionLivre\GestionLivre\bin\Debug\net6.0\GestionLivre.dll
+C:\Users\hollo\OneDrive\Bureau\DOTNET\GestionLivre\GestionLivre\bin\Debug\net6.0\GestionLivre.pdb
+C:\Users\hollo\OneDrive\Bureau\DOTNET\GestionLivre\GestionLivre\obj\Debug\net6.0\GestionLivre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hollo\OneDrive\Bureau\DOTNET\GestionLivre\GestionLivre\obj\Debug\net6.0\GestionLivre.AssemblyInfoInputs.cache
+C:\Users\hollo\OneDrive\Bureau\DOTNET\GestionLivre\GestionLivre\obj\Debug\net6.0\GestionLivre.AssemblyInfo.cs
+C:\Users\hollo\OneDrive\Bureau\DOTNET\GestionLivre\GestionLivre\obj\Debug\net6.0\GestionLivre.csproj.CoreCompileInputs.cache
+C:\Users\hollo\OneDrive\Bureau\DOTNET\GestionLivre\GestionLivre\obj\Debug\net6.0\GestionLivre.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hollo\OneDrive\Bureau\DOTNET\GestionLivre\GestionLivre\obj\Debug\net6.0\GestionLivre.RazorAssemblyInfo.cache
+C:\Users\hollo\OneDrive\Bureau\DOTNET\GestionLivre\GestionLivre\obj\Debug\net6.0\GestionLivre.RazorAssemblyInfo.cs
+C:\Users\hollo\OneDrive\Bureau\DOTNET\GestionLivre\GestionLivre\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\hollo\OneDrive\Bureau\DOTNET\GestionLivre\GestionLivre\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\hollo\OneDrive\Bureau\DOTNET\GestionLivre\GestionLivre\obj\Debug\net6.0\staticwebassets\msbuild.GestionLivre.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\hollo\OneDrive\Bureau\DOTNET\GestionLivre\GestionLivre\obj\Debug\net6.0\staticwebassets\msbuild.build.GestionLivre.props
+C:\Users\hollo\OneDrive\Bureau\DOTNET\GestionLivre\GestionLivre\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.GestionLivre.props
+C:\Users\hollo\OneDrive\Bureau\DOTNET\GestionLivre\GestionLivre\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.GestionLivre.props
+C:\Users\hollo\OneDrive\Bureau\DOTNET\GestionLivre\GestionLivre\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\hollo\OneDrive\Bureau\DOTNET\GestionLivre\GestionLivre\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\hollo\OneDrive\Bureau\DOTNET\GestionLivre\GestionLivre\obj\Debug\net6.0\scopedcss\bundle\GestionLivre.styles.css
+C:\Users\hollo\OneDrive\Bureau\DOTNET\GestionLivre\GestionLivre\obj\Debug\net6.0\scopedcss\projectbundle\GestionLivre.bundle.scp.css
+C:\Users\hollo\OneDrive\Bureau\DOTNET\GestionLivre\GestionLivre\obj\Debug\net6.0\GestionLivre.dll
+C:\Users\hollo\OneDrive\Bureau\DOTNET\GestionLivre\GestionLivre\obj\Debug\net6.0\refint\GestionLivre.dll
+C:\Users\hollo\OneDrive\Bureau\DOTNET\GestionLivre\GestionLivre\obj\Debug\net6.0\GestionLivre.pdb
+C:\Users\hollo\OneDrive\Bureau\DOTNET\GestionLivre\GestionLivre\obj\Debug\net6.0\GestionLivre.genruntimeconfig.cache
+C:\Users\hollo\OneDrive\Bureau\DOTNET\GestionLivre\GestionLivre\obj\Debug\net6.0\ref\GestionLivre.dll
+C:\Users\hollo\OneDrive\Bureau\DOTNET\GestionLivre\GestionLivre\obj\Debug\net6.0\GestionLivre.csproj.AssemblyReference.cache
+C:\Users\hollo\OneDrive\Bureau\DOTNET\GestionLivre\GestionLivre\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\hollo\OneDrive\Bureau\DOTNET\GestionLivre\GestionLivre\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\hollo\OneDrive\Bureau\DOTNET\GestionLivre\GestionLivre\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\hollo\OneDrive\Bureau\DOTNET\GestionLivre\GestionLivre\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\hollo\OneDrive\Bureau\DOTNET\GestionLivre\GestionLivre\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hollo\OneDrive\Bureau\DOTNET\GestionLivre\GestionLivre\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hollo\OneDrive\Bureau\DOTNET\GestionLivre\GestionLivre\obj\Debug\net6.0\GestionLivre.csproj.CopyComplete
+C:\Users\hollo\OneDrive\Bureau\GestionLivreV2\GestionLivre\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\hollo\OneDrive\Bureau\GestionLivreV2\GestionLivre\bin\Debug\net6.0\appsettings.json
+C:\Users\hollo\OneDrive\Bureau\GestionLivreV2\GestionLivre\bin\Debug\net6.0\GestionLivre.staticwebassets.runtime.json
+C:\Users\hollo\OneDrive\Bureau\GestionLivreV2\GestionLivre\bin\Debug\net6.0\GestionLivre.exe
+C:\Users\hollo\OneDrive\Bureau\GestionLivreV2\GestionLivre\bin\Debug\net6.0\GestionLivre.deps.json
+C:\Users\hollo\OneDrive\Bureau\GestionLivreV2\GestionLivre\bin\Debug\net6.0\GestionLivre.runtimeconfig.json
+C:\Users\hollo\OneDrive\Bureau\GestionLivreV2\GestionLivre\bin\Debug\net6.0\GestionLivre.dll
+C:\Users\hollo\OneDrive\Bureau\GestionLivreV2\GestionLivre\bin\Debug\net6.0\GestionLivre.pdb
+C:\Users\hollo\OneDrive\Bureau\GestionLivreV2\GestionLivre\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\hollo\OneDrive\Bureau\GestionLivreV2\GestionLivre\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\hollo\OneDrive\Bureau\GestionLivreV2\GestionLivre\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\hollo\OneDrive\Bureau\GestionLivreV2\GestionLivre\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\hollo\OneDrive\Bureau\GestionLivreV2\GestionLivre\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hollo\OneDrive\Bureau\GestionLivreV2\GestionLivre\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hollo\OneDrive\Bureau\GestionLivreV2\GestionLivre\obj\Debug\net6.0\GestionLivre.csproj.AssemblyReference.cache
+C:\Users\hollo\OneDrive\Bureau\GestionLivreV2\GestionLivre\obj\Debug\net6.0\GestionLivre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hollo\OneDrive\Bureau\GestionLivreV2\GestionLivre\obj\Debug\net6.0\GestionLivre.AssemblyInfoInputs.cache
+C:\Users\hollo\OneDrive\Bureau\GestionLivreV2\GestionLivre\obj\Debug\net6.0\GestionLivre.AssemblyInfo.cs
+C:\Users\hollo\OneDrive\Bureau\GestionLivreV2\GestionLivre\obj\Debug\net6.0\GestionLivre.csproj.CoreCompileInputs.cache
+C:\Users\hollo\OneDrive\Bureau\GestionLivreV2\GestionLivre\obj\Debug\net6.0\GestionLivre.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hollo\OneDrive\Bureau\GestionLivreV2\GestionLivre\obj\Debug\net6.0\GestionLivre.RazorAssemblyInfo.cache
+C:\Users\hollo\OneDrive\Bureau\GestionLivreV2\GestionLivre\obj\Debug\net6.0\GestionLivre.RazorAssemblyInfo.cs
+C:\Users\hollo\OneDrive\Bureau\GestionLivreV2\GestionLivre\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\hollo\OneDrive\Bureau\GestionLivreV2\GestionLivre\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\hollo\OneDrive\Bureau\GestionLivreV2\GestionLivre\obj\Debug\net6.0\staticwebassets\msbuild.GestionLivre.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\hollo\OneDrive\Bureau\GestionLivreV2\GestionLivre\obj\Debug\net6.0\staticwebassets\msbuild.build.GestionLivre.props
+C:\Users\hollo\OneDrive\Bureau\GestionLivreV2\GestionLivre\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.GestionLivre.props
+C:\Users\hollo\OneDrive\Bureau\GestionLivreV2\GestionLivre\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.GestionLivre.props
+C:\Users\hollo\OneDrive\Bureau\GestionLivreV2\GestionLivre\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\hollo\OneDrive\Bureau\GestionLivreV2\GestionLivre\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\hollo\OneDrive\Bureau\GestionLivreV2\GestionLivre\obj\Debug\net6.0\scopedcss\bundle\GestionLivre.styles.css
+C:\Users\hollo\OneDrive\Bureau\GestionLivreV2\GestionLivre\obj\Debug\net6.0\scopedcss\projectbundle\GestionLivre.bundle.scp.css
+C:\Users\hollo\OneDrive\Bureau\GestionLivreV2\GestionLivre\obj\Debug\net6.0\GestionLivre.csproj.CopyComplete
+C:\Users\hollo\OneDrive\Bureau\GestionLivreV2\GestionLivre\obj\Debug\net6.0\GestionLivre.dll
+C:\Users\hollo\OneDrive\Bureau\GestionLivreV2\GestionLivre\obj\Debug\net6.0\refint\GestionLivre.dll
+C:\Users\hollo\OneDrive\Bureau\GestionLivreV2\GestionLivre\obj\Debug\net6.0\GestionLivre.pdb
+C:\Users\hollo\OneDrive\Bureau\GestionLivreV2\GestionLivre\obj\Debug\net6.0\GestionLivre.genruntimeconfig.cache
+C:\Users\hollo\OneDrive\Bureau\GestionLivreV2\GestionLivre\obj\Debug\net6.0\ref\GestionLivre.dll
+C:\Users\acer\Desktop\dotstuff\GestionLivreV2\GestionLivre\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\acer\Desktop\dotstuff\GestionLivreV2\GestionLivre\bin\Debug\net6.0\appsettings.json
+C:\Users\acer\Desktop\dotstuff\GestionLivreV2\GestionLivre\bin\Debug\net6.0\GestionLivre.staticwebassets.runtime.json
+C:\Users\acer\Desktop\dotstuff\GestionLivreV2\GestionLivre\bin\Debug\net6.0\GestionLivre.exe
+C:\Users\acer\Desktop\dotstuff\GestionLivreV2\GestionLivre\bin\Debug\net6.0\GestionLivre.deps.json
+C:\Users\acer\Desktop\dotstuff\GestionLivreV2\GestionLivre\bin\Debug\net6.0\GestionLivre.runtimeconfig.json
+C:\Users\acer\Desktop\dotstuff\GestionLivreV2\GestionLivre\bin\Debug\net6.0\GestionLivre.dll
+C:\Users\acer\Desktop\dotstuff\GestionLivreV2\GestionLivre\bin\Debug\net6.0\GestionLivre.pdb
+C:\Users\acer\Desktop\dotstuff\GestionLivreV2\GestionLivre\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\acer\Desktop\dotstuff\GestionLivreV2\GestionLivre\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\acer\Desktop\dotstuff\GestionLivreV2\GestionLivre\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\acer\Desktop\dotstuff\GestionLivreV2\GestionLivre\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\acer\Desktop\dotstuff\GestionLivreV2\GestionLivre\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\acer\Desktop\dotstuff\GestionLivreV2\GestionLivre\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\acer\Desktop\dotstuff\GestionLivreV2\GestionLivre\obj\Debug\net6.0\GestionLivre.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\dotstuff\GestionLivreV2\GestionLivre\obj\Debug\net6.0\GestionLivre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Desktop\dotstuff\GestionLivreV2\GestionLivre\obj\Debug\net6.0\GestionLivre.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\dotstuff\GestionLivreV2\GestionLivre\obj\Debug\net6.0\GestionLivre.AssemblyInfo.cs
+C:\Users\acer\Desktop\dotstuff\GestionLivreV2\GestionLivre\obj\Debug\net6.0\GestionLivre.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\dotstuff\GestionLivreV2\GestionLivre\obj\Debug\net6.0\GestionLivre.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\acer\Desktop\dotstuff\GestionLivreV2\GestionLivre\obj\Debug\net6.0\GestionLivre.RazorAssemblyInfo.cache
+C:\Users\acer\Desktop\dotstuff\GestionLivreV2\GestionLivre\obj\Debug\net6.0\GestionLivre.RazorAssemblyInfo.cs
+C:\Users\acer\Desktop\dotstuff\GestionLivreV2\GestionLivre\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\acer\Desktop\dotstuff\GestionLivreV2\GestionLivre\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\acer\Desktop\dotstuff\GestionLivreV2\GestionLivre\obj\Debug\net6.0\staticwebassets\msbuild.GestionLivre.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\acer\Desktop\dotstuff\GestionLivreV2\GestionLivre\obj\Debug\net6.0\staticwebassets\msbuild.build.GestionLivre.props
+C:\Users\acer\Desktop\dotstuff\GestionLivreV2\GestionLivre\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.GestionLivre.props
+C:\Users\acer\Desktop\dotstuff\GestionLivreV2\GestionLivre\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.GestionLivre.props
+C:\Users\acer\Desktop\dotstuff\GestionLivreV2\GestionLivre\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\acer\Desktop\dotstuff\GestionLivreV2\GestionLivre\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\acer\Desktop\dotstuff\GestionLivreV2\GestionLivre\obj\Debug\net6.0\scopedcss\bundle\GestionLivre.styles.css
+C:\Users\acer\Desktop\dotstuff\GestionLivreV2\GestionLivre\obj\Debug\net6.0\scopedcss\projectbundle\GestionLivre.bundle.scp.css
+C:\Users\acer\Desktop\dotstuff\GestionLivreV2\GestionLivre\obj\Debug\net6.0\GestionLivre.csproj.CopyComplete
+C:\Users\acer\Desktop\dotstuff\GestionLivreV2\GestionLivre\obj\Debug\net6.0\GestionLivre.dll
+C:\Users\acer\Desktop\dotstuff\GestionLivreV2\GestionLivre\obj\Debug\net6.0\refint\GestionLivre.dll
+C:\Users\acer\Desktop\dotstuff\GestionLivreV2\GestionLivre\obj\Debug\net6.0\GestionLivre.pdb
+C:\Users\acer\Desktop\dotstuff\GestionLivreV2\GestionLivre\obj\Debug\net6.0\GestionLivre.genruntimeconfig.cache
+C:\Users\acer\Desktop\dotstuff\GestionLivreV2\GestionLivre\obj\Debug\net6.0\ref\GestionLivre.dll
+C:\Users\acer\Desktop\dotstuff\GestionLivreV2 bida ayoub\GestionLivre\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\acer\Desktop\dotstuff\GestionLivreV2 bida ayoub\GestionLivre\bin\Debug\net6.0\appsettings.json
+C:\Users\acer\Desktop\dotstuff\GestionLivreV2 bida ayoub\GestionLivre\bin\Debug\net6.0\GestionLivre.staticwebassets.runtime.json
+C:\Users\acer\Desktop\dotstuff\GestionLivreV2 bida ayoub\GestionLivre\bin\Debug\net6.0\GestionLivre.exe
+C:\Users\acer\Desktop\dotstuff\GestionLivreV2 bida ayoub\GestionLivre\bin\Debug\net6.0\GestionLivre.deps.json
+C:\Users\acer\Desktop\dotstuff\GestionLivreV2 bida ayoub\GestionLivre\bin\Debug\net6.0\GestionLivre.runtimeconfig.json
+C:\Users\acer\Desktop\dotstuff\GestionLivreV2 bida ayoub\GestionLivre\bin\Debug\net6.0\GestionLivre.dll
+C:\Users\acer\Desktop\dotstuff\GestionLivreV2 bida ayoub\GestionLivre\bin\Debug\net6.0\GestionLivre.pdb
+C:\Users\acer\Desktop\dotstuff\GestionLivreV2 bida ayoub\GestionLivre\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\acer\Desktop\dotstuff\GestionLivreV2 bida ayoub\GestionLivre\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\acer\Desktop\dotstuff\GestionLivreV2 bida ayoub\GestionLivre\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\acer\Desktop\dotstuff\GestionLivreV2 bida ayoub\GestionLivre\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\acer\Desktop\dotstuff\GestionLivreV2 bida ayoub\GestionLivre\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\acer\Desktop\dotstuff\GestionLivreV2 bida ayoub\GestionLivre\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\acer\Desktop\dotstuff\GestionLivreV2 bida ayoub\GestionLivre\obj\Debug\net6.0\GestionLivre.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\dotstuff\GestionLivreV2 bida ayoub\GestionLivre\obj\Debug\net6.0\GestionLivre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Desktop\dotstuff\GestionLivreV2 bida ayoub\GestionLivre\obj\Debug\net6.0\GestionLivre.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\dotstuff\GestionLivreV2 bida ayoub\GestionLivre\obj\Debug\net6.0\GestionLivre.AssemblyInfo.cs
+C:\Users\acer\Desktop\dotstuff\GestionLivreV2 bida ayoub\GestionLivre\obj\Debug\net6.0\GestionLivre.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\dotstuff\GestionLivreV2 bida ayoub\GestionLivre\obj\Debug\net6.0\GestionLivre.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\acer\Desktop\dotstuff\GestionLivreV2 bida ayoub\GestionLivre\obj\Debug\net6.0\GestionLivre.RazorAssemblyInfo.cache
+C:\Users\acer\Desktop\dotstuff\GestionLivreV2 bida ayoub\GestionLivre\obj\Debug\net6.0\GestionLivre.RazorAssemblyInfo.cs
+C:\Users\acer\Desktop\dotstuff\GestionLivreV2 bida ayoub\GestionLivre\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\acer\Desktop\dotstuff\GestionLivreV2 bida ayoub\GestionLivre\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\acer\Desktop\dotstuff\GestionLivreV2 bida ayoub\GestionLivre\obj\Debug\net6.0\staticwebassets\msbuild.GestionLivre.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\acer\Desktop\dotstuff\GestionLivreV2 bida ayoub\GestionLivre\obj\Debug\net6.0\staticwebassets\msbuild.build.GestionLivre.props
+C:\Users\acer\Desktop\dotstuff\GestionLivreV2 bida ayoub\GestionLivre\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.GestionLivre.props
+C:\Users\acer\Desktop\dotstuff\GestionLivreV2 bida ayoub\GestionLivre\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.GestionLivre.props
+C:\Users\acer\Desktop\dotstuff\GestionLivreV2 bida ayoub\GestionLivre\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\acer\Desktop\dotstuff\GestionLivreV2 bida ayoub\GestionLivre\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\acer\Desktop\dotstuff\GestionLivreV2 bida ayoub\GestionLivre\obj\Debug\net6.0\scopedcss\bundle\GestionLivre.styles.css
+C:\Users\acer\Desktop\dotstuff\GestionLivreV2 bida ayoub\GestionLivre\obj\Debug\net6.0\scopedcss\projectbundle\GestionLivre.bundle.scp.css
+C:\Users\acer\Desktop\dotstuff\GestionLivreV2 bida ayoub\GestionLivre\obj\Debug\net6.0\GestionLivre.csproj.CopyComplete
+C:\Users\acer\Desktop\dotstuff\GestionLivreV2 bida ayoub\GestionLivre\obj\Debug\net6.0\GestionLivre.dll
+C:\Users\acer\Desktop\dotstuff\GestionLivreV2 bida ayoub\GestionLivre\obj\Debug\net6.0\refint\GestionLivre.dll
+C:\Users\acer\Desktop\dotstuff\GestionLivreV2 bida ayoub\GestionLivre\obj\Debug\net6.0\GestionLivre.pdb
+C:\Users\acer\Desktop\dotstuff\GestionLivreV2 bida ayoub\GestionLivre\obj\Debug\net6.0\GestionLivre.genruntimeconfig.cache
+C:\Users\acer\Desktop\dotstuff\GestionLivreV2 bida ayoub\GestionLivre\obj\Debug\net6.0\ref\GestionLivre.dll

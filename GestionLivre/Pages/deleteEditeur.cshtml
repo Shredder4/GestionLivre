@@ -1,0 +1,23 @@
+﻿@page
+@model GestionLivre.Pages.deleteEditeurModel
+@using System.Data.SqlClient;
+@{
+	try
+	{
+		int id = Convert.ToInt32(Request.Query["id"]);
+		string connectionString = "Data Source=DESKTOP-K19V05R\\SQLEXPRESS02;Initial Catalog=GestionLivre;Integrated Security=True";
+		SqlConnection con = new SqlConnection(connectionString);
+		con.Open();
+		string sql = "delete from Editeur where IDEditeur=@id";
+		SqlCommand cmd = new SqlCommand(sql, con);
+		cmd.Parameters.AddWithValue("@id", id);
+		cmd.ExecuteNonQuery();
+		con.Close();
+	}
+	catch (Exception ex)
+	{
+		Console.WriteLine("Exception " + ex.ToString());
+	}
+	Response.Redirect("/Editeurs");
+
+}
